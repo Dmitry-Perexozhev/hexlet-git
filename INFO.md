@@ -1,4 +1,2 @@
-git is awesome!
-new line
-change1
-change2
+test1
+test2
